@@ -4,6 +4,7 @@
 }
 body {
     font-family: Lato;
+    max-width: 1920px;
 }
 .container {
     max-width: 1140px;
@@ -320,7 +321,7 @@ padding: 30px 15px 0 40px;
     background-color: #f16d7f;
     color: #fff;
     border-radius: 3px;
-}
+} 
 
 .account:hover {
     background-color:white;
@@ -1561,7 +1562,8 @@ border: 1px solid  #f16d7f;
     height: 45px;
     background-color: #ffffff;
     border: 1px solid #eaeaea;
-    
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .password {
     padding-top: 23px;
